@@ -20,20 +20,20 @@ h1 {
 	grid-column-start: 1;
 	grid-column-end: span 2;
 	background-color: rgba(16,124,16,1);
-	color: white;
+	color: black;
 	font-size:18px;
 }
 .grid-colspan2b{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	background-color: #125ea9;
-	color: white;
+	color: black;
 }
 .vs{
 	position: fixed;
 	left: 49.2%;
 	font-size: 40px;
-	color: white;
+	color: black;
 }
 .grid-colspan1{
 	grid-column-start: 1;
@@ -58,7 +58,7 @@ top-margin {
 	position: fixed;
 	left: 46.75%;
 	font-size: 24px;
-	color: white;
+	color: black;
 }
 p{
 	font-size:20px;
