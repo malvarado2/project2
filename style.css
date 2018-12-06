@@ -2,6 +2,11 @@
 	padding: 0px;
 	margin: 0px;
 }
+
+body{
+	cursor: url(https://img.icons8.com/color/50/000000/xbox.png), auto;
+}
+
 h1.p {
 	border: 5px solid black;
 }
